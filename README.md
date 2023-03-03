@@ -10,13 +10,13 @@
 </div>
 <div id="badges" align="center">
   <h3> Contact Me Here </h3>
-  <a href="your-linkedin-URL](https://www.linkedin.com/in/aniket-bhunia-433120201/">
+  <a href="https://www.linkedin.com/in/aniket-bhunia-433120201/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> -->
-  <a href="your-twitter-URL](https://www.facebook.com/aniket.bhunia.7315/">
+  <a href="https://www.facebook.com/aniket.bhunia.7315/">
     <img src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <br>
